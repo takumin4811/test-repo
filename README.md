@@ -18,3 +18,7 @@ git config --global color.ui auto
 git diff はワークツリーとインデックスツリーの差分
 git diff HEADは最新コミットとワークツリーの差分
 
+## コミットログの修正
+
+feature-B
+
