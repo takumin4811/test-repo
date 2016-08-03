@@ -12,3 +12,9 @@ git config --global color.ui auto
 
 内容は~/.gitconfigに書き込まれる
 
+
+## DIFF
+
+git diff はワークツリーとインデックスツリーの差分
+git diff HEADは最新コミットとワークツリーの差分
+
