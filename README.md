@@ -27,3 +27,8 @@ feature-A
 
 feature-B
 
+
+## リベース（複数コミットをまとめる）
+
+feature-C
+
