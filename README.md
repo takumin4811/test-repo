@@ -23,4 +23,7 @@ git diff HEADは最新コミットとワークツリーの差分
 
 feature-A
 
+## コミットログの修正
+
+feature-B
 
